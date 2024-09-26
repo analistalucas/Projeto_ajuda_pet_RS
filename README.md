@@ -5,11 +5,11 @@
   
 Etapas do Projeto:
 
-Coleta e limpeza de dados
-Análise exploratória para identificar padrões
-Criação de métricas e KPIs
-Desenvolvimento de dashboard em Power BI
-Geração de insights para melhorias operacionais
+- Coleta e limpeza de dados
+- Análise exploratória para identificar padrões
+- Criação de métricas e KPIs
+- Desenvolvimento de dashboard em Power BI
+- Geração de insights para melhorias operacionais
 
 Ferramentas: SQL, Power BI/Tableau, SQL SERVER
 
